@@ -1,5 +1,5 @@
 # 💫 About Me:
-im not ai<br>im studiyng 
+im not ai<br>
 
 
 ## 🌐 Socials:
