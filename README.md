@@ -1,31 +1,392 @@
-# 💫 About Me:
-im not ai<br>
+<div align="center">
 
+<a href="https://github.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=RAMBOD%20ALAMI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rawmbod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rambod-alemi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rawmbod) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rawmbod) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@rawmbod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rambod.alemi87@gmail.com) 
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;Product+Engineer;Co-Founder%2C+CEO+%26+CTO+at+PurpleGM;Building+modern+digital+products" alt="Typing SVG"/>
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rambodalemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rambodalemi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rambodalemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rambodalemi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/Terminale_Générale-312E81?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Developer-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mériel%2C_France-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rambodalemi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="mailto:rambod.alemi87@gmail.com">
+  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://purplegm.com">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rambodalami&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rambodalami?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/rambodalami?label=STARS&style=for-the-badge&color=7C3AED"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rambodalemi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/8professor) 
+## About
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a software-focused web developer with more than **5 years of experience** building professional and commercial web projects.
+
+My work spans the complete product lifecycle, from interface design and frontend engineering to backend development, performance optimization, SEO and product experience.
+
+I currently work as **Co-Founder, CEO & CTO of PurpleGM**, where I lead the development of a commercial digital platform and contribute to product strategy and user experience.
+
+My engineering interests include:
+
+- Full-stack web development
+- Modern React / Next.js applications
+- Backend architecture and APIs
+- Product engineering
+- Performance and UX optimization
+- SEO and technical optimization
+- AI-assisted development and prompt engineering
+- Building scalable digital products
+
+### Open To
+
+`Software Engineering` · `Full Stack Development` · `Product Engineering` · `Web Development` · `AI Engineering` · `Freelance Projects`
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python&theme=dark"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,tailwind&theme=dark"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb&theme=dark"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,npm,postman&theme=dark"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Shadcn%2FUI-18181B?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEO-4C1D95?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI-Assisted Development | Advanced | Integrating modern AI workflows into software development |
+| Prompt Engineering | Advanced | Designing structured prompts for development and product workflows |
+| AI Product Integration | Intermediate | Exploring practical AI capabilities for digital products |
+| Developer Productivity | Advanced | Using AI to accelerate research, implementation and iteration |
+| AI-Driven UX | Intermediate | Exploring intelligent interfaces and product experiences |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🟣 PurpleGM</strong></summary>
+
+<br/>
+
+**Co-Founder, CEO & CTO — Commercial Gaming Platform**
+
+A full-stack commercial platform developed from the ground up, combining modern frontend architecture, backend systems, product strategy and user experience.
+
+| Category | Details |
+|---|---|
+| **Stack** | React · Next.js · TailwindCSS · Node.js · MongoDB |
+| **Scale** | Commercial production platform |
+| **Performance** | Optimized modern web architecture and UX |
+| **Security** | Backend validation, authentication and secure application flows |
+| **Impact** | Full product engineering from concept to production |
+| **Repository** | Private / Commercial |
+
+**Professional Scope**
+
+- Designed and developed the platform architecture.
+- Built modern frontend interfaces using React, Next.js and TailwindCSS.
+- Developed backend functionality and application logic.
+- Contributed to product strategy and user experience.
+- Managed the technical direction of the platform.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>⚕️ Universurgical</strong></summary>
+
+<br/>
+
+**Software Engineer — Professional Web Solutions**
+
+Worked on professional web solutions with an emphasis on maintainability, performance and user experience.
+
+| Category | Details |
+|---|---|
+| **Stack** | JavaScript · React / Next.js · Node.js · MongoDB |
+| **Scale** | Professional commercial projects |
+| **Performance** | Performance and UX optimization |
+| **Security** | Application-level engineering practices |
+| **Impact** | Development and maintenance of production web solutions |
+| **Repository** | Private |
+
+**Professional Scope**
+
+- Developed and maintained web solutions.
+- Optimized performance and user experience.
+- Contributed to professional commercial projects.
+- Worked across frontend and backend development.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🎨 MathiasPerez.com</strong></summary>
+
+<br/>
+
+**Freelance Web Developer — Official Artist Website**
+
+Complete design and development of the official website for painter Mathias Pérez.
+
+| Category | Details |
+|---|---|
+| **Stack** | JavaScript · Web Development · SEO |
+| **Scale** | Professional artist portfolio |
+| **Performance** | Optimized frontend experience |
+| **Security** | Production-oriented implementation |
+| **Impact** | Complete website delivery from concept to deployment |
+| **Repository** | Private |
+
+**Professional Scope**
+
+- Designed and developed the complete website.
+- Created the visual implementation and frontend experience.
+- Implemented SEO optimizations.
+- Managed the project from start to finish.
+
+[Visit MathiasPerez.com](https://mathiasperez.com)
+
+</details>
+
+---
+
+## Experience
+
+### Co-Founder, CEO & CTO — PurpleGM
+
+**2023 — Present**
+
+Leading the technical development and product direction of PurpleGM.
+
+- Created and developed a complete commercial web platform.
+- Managed frontend and backend development.
+- Built modern interfaces with React, Next.js and TailwindCSS.
+- Contributed to product strategy and UX.
+- Directed technical implementation and product evolution.
+
+`React` `Next.js` `TailwindCSS` `Node.js` `MongoDB` `Product Engineering`
+
+---
+
+### Software Engineer — Universurgical
+
+**Professional Experience**
+
+- Developed and maintained web solutions.
+- Optimized application performance.
+- Improved user experience.
+- Collaborated on professional commercial projects.
+
+`JavaScript` `Web Development` `Performance` `UX`
+
+---
+
+### Freelance Web Developer — MathiasPerez.com
+
+**Professional Experience**
+
+- Designed and developed the official website.
+- Managed design and implementation.
+- Optimized the website for SEO.
+- Managed the complete project lifecycle.
+
+`Web Development` `SEO` `Frontend` `Project Management`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|---|
+| 🏆 **5+ Years Development Experience** | Professional and commercial web development experience |
+| 🚀 **Co-Founder / CEO / CTO** | Leading product and technical development at PurpleGM |
+| 💻 **Full Product Ownership** | Experience taking web products from concept through implementation |
+| 🌐 **Professional Client Work** | Complete development of commercial and professional websites |
+| ⚙️ **Full-Stack Engineering** | Frontend, backend, databases, UX and optimization |
+
+</div>
+
+---
+
+## Certifications
+
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Not_Provided-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Not_Provided-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Not_Provided-3730A3?style=for-the-badge&logo=bookstack&logoColor=white)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Not_Provided-312E81?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-166534?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-166534?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rambodalami&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/>
+</a>
+
+<a href="https://github.com/">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambodalami&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rambodalami&theme=dark&hide_border=true&background=0D0B14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rambodalami&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rambodalami&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rambodalami/rambodalami/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+profile:
+  role: "Software Engineer"
+  focus:
+    - "Full Stack Development"
+    - "Product Engineering"
+    - "Modern Web Architecture"
+    - "AI-Assisted Development"
+
+learning:
+  - "Advanced Software Architecture"
+  - "AI Engineering"
+  - "Scalable Web Systems"
+  - "Performance Optimization"
+
+building:
+  - "PurpleGM"
+  - "Commercial Web Products"
+  - "Modern Digital Experiences"
+
+exploring:
+  - "Artificial Intelligence"
+  - "Developer Productivity"
+  - "Product Engineering"
+  - "Next-generation Web Applications"
+
+open_to:
+  - "Software Engineering"
+  - "Full Stack Development"
+  - "Product Engineering"
+  - "Freelance Projects"
+  - "Collaborations"
