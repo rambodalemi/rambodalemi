@@ -19,7 +19,7 @@
 <a href="https://github.com/rambodalemi">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/rambodalemi">
+<a href="https://www.linkedin.com/rambod-alemi">
   <img src="https://img.shields.io/badge/LinkedIn-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://rambodalemi.com">
@@ -374,7 +374,7 @@ open_to:
 <div align="center"> <a href="mailto:rambod.alemi87@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-rambod.alemi87%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/> 
 </a> 
-  <a href="https://www.linkedin.com/rambodalemi"> 
+  <a href="https://www.linkedin.com/rambod-alemi"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a> 
   <a href="https://github.com/rambodalemi"> 
