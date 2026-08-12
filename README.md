@@ -360,6 +360,10 @@ Leading the technical development and product direction of PurpleGM.
 
 <div align="center"> <a href="mailto:rambod.alemi87@gmail.com"> <img src="https://img.shields.io/badge/Gmail-rambod.alemi87%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://purplegm.com"> <img src="https://img.shields.io/badge/Portfolio-PurpleGM-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
 
+<div align="center">
+Building products where engineering meets experience.
+<a href="https://capsule-render.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer" width="100%"/> </a> </div> ```
+
 ```yaml
 profile:
   role: "Software Engineer"
