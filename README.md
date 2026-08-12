@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=RAMBOD%20alemi&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=RAMBOD%20ALEMI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
