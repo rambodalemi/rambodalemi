@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=RAMBOD%20ALAMI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=RAMBOD%20alemi&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -289,16 +289,16 @@ Leading the technical development and product direction of PurpleGM.
 <div align="center">
 
 <a href="https://github.com/">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rambodalami&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rambodalemi&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/>
 </a>
 
 <a href="https://github.com/">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambodalami&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambodalemi&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rambodalami&theme=dark&hide_border=true&background=0D0B14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com?user=rambodalemi&theme=dark&hide_border=true&background=0D0B14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
 
@@ -308,7 +308,7 @@ Leading the technical development and product direction of PurpleGM.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rambodalami&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rambodalemi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
@@ -318,7 +318,7 @@ Leading the technical development and product direction of PurpleGM.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rambodalami&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rambodalemi&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
 
 </div>
 
