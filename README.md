@@ -10,10 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Terminale_Générale-312E81?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Developer-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mériel%2C_France-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Software Engineer Student-312E81?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <br/><br/>
 
 <a href="mailto:rambod.alemi87@gmail.com">
@@ -25,15 +22,15 @@
 <a href="https://www.linkedin.com/rambodalemi">
   <img src="https://img.shields.io/badge/LinkedIn-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://purplegm.com">
+<a href="https://rambodalemi.com">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rambodalami&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/rambodalami?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
-<img src="https://img.shields.io/github/stars/rambodalami?label=STARS&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=rambodalemi&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rambodalemi?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/rambodalemi?label=STARS&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
@@ -262,25 +259,6 @@ Leading the technical development and product direction of PurpleGM.
 
 ---
 
-## Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Not_Provided-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Not_Provided-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Not_Provided-3730A3?style=for-the-badge&logo=bookstack&logoColor=white)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Not_Provided-312E81?style=for-the-badge&logo=cisco&logoColor=white)
-
----
 
 ## Coding Profiles
 
@@ -358,24 +336,6 @@ Leading the technical development and product direction of PurpleGM.
 
 ## Current Focus
 
-<div align="center"> <a href="mailto:rambod.alemi87@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rambod.alemi87%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/> 
-</a> 
-  <a href="https://www.linkedin.com/rambodalemi"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a> 
-  <a href="https://github.com/rambodalemi"> 
-      <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  <a href="https://rambodalemi.com"> 
-        <img src="https://img.shields.io/badge/Portfolio-RambodAlemi-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/> 
-  </a>
-</div>
-
-<div align="center">
-Building products where engineering meets experience.
-<a href="https://capsule-render.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer" width="100%"/> </a> </div> ```
-
 ```yaml
 profile:
   role: "Software Engineer"
@@ -408,3 +368,23 @@ open_to:
   - "Product Engineering"
   - "Freelance Projects"
   - "Collaborations"
+
+```
+
+<div align="center"> <a href="mailto:rambod.alemi87@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rambod.alemi87%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/> 
+</a> 
+  <a href="https://www.linkedin.com/rambodalemi"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3730A3?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+  <a href="https://github.com/rambodalemi"> 
+      <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  <a href="https://rambodalemi.com"> 
+        <img src="https://img.shields.io/badge/Portfolio-RambodAlemi-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/> 
+  </a>
+</div>
+
+<div align="center">
+Building products where engineering meets experience.
+<a href="https://capsule-render.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer" width="100%"/> </a> </div> 
